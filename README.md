@@ -12,7 +12,7 @@ It shoulld be able to handle 1.5A of current based on PCB track width.
 
 *Board tested with 1.5A of current*
 
-![image](https://github.com/user-attachments/assets/7c9a2a17-7c83-4428-8be2-218b9d4742e8)
+![image](https://github.com/user-attachments/assets/4cd3a3b1-1cd2-40a9-8a86-e42035d8078b)
 
 *Ripple under a 1.5A load, ripple can vary based on the USB-C charger. Test conducted with the **65W USB-C GaN iFixit Fast Charger***
 ## IP2721_MAX12
