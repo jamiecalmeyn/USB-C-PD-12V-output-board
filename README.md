@@ -6,7 +6,7 @@ Powered by the IP2721_MAX12
 Upgrade your legacy gear with modern USB-C power. This compact board delivers a 12V output using the IP2721_MAX12 USB-C Power Delivery controller.
 
 Whether you're retrofitting old tech or building something new, this board offers a simple, reliable way to tap into USB-C PD at 12V. It uses the HRO_TYPE-C-31-M-17 USB connector.
-It shoulld be able to handle 1.5A of current based on PCB track width.
+It should be able to handle 1.5A of current based on PCB track width.
 
 ![Untitled](https://github.com/user-attachments/assets/575aa0ea-1c83-43e4-a5bb-28cfa8e6c2b1)
 
